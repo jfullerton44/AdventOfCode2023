@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            string filePath = "in.txt";
+            string filePath = "sample.txt";
             List<string> lines = new List<string>();
 
             try
